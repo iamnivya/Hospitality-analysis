@@ -6,7 +6,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Power Bi<br>
 Power Query<br>
 DAX<br>
-Data Modelling
+Data Modelling<br>
 ##Steps Covered:
 Imported data from MS Excel to Power BI<br>
 Data transformation in Power Query editor<br>
