@@ -7,7 +7,7 @@ Power Bi<br>
 Power Query<br>
 DAX<br>
 Data Modelling<br>
-##Steps Covered:
+## Steps Covered:
 Imported data from MS Excel to Power BI<br>
 Data transformation in Power Query editor<br>
 Data Modelling<br>
